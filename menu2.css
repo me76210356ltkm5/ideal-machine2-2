@@ -101,13 +101,13 @@ span {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
-  height: 1900px;
+  height: 6000px;
   z-index: 1;
 }
 
 .main-container {
   margin: 0 auto;
-  height: 1500px;
+  height: 5700px;
   width: 750px;
   background-image: url("008-cover-book0.png");
 }
@@ -136,10 +136,11 @@ span {
 .menu-list-wrapper {
   margin: 0 auto;
   width: 90%;
+  margin-bottom:50px;
 }
 
 .list-top {
-  margin-top: 30px;
+  margin-top: 10px;
   text-align: center;
 }
 
@@ -162,14 +163,17 @@ h3 {
 }
 
 .list-left {
-  width: 50%;
+  width: 80%;
 }
 
 .list-right {
   text-align: right;
-  width: 50%;
+  width: 20%;
 }
 
+#Note{
+  text-align:right;
+}
 
 .btn-wrapper {
   width: 90%;
